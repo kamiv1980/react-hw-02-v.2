@@ -1,0 +1,19 @@
+.section {
+    width:600px;
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    margin: 0 auto;
+}
+
+.form {
+    display: flex;
+}
+.button{
+
+    border-radius: 5px;
+    margin:20px auto;
+    color: indigo;
+    font-size: large ;
+}
+
